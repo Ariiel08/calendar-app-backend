@@ -27,6 +27,6 @@ DB_CONNECTION=
 SECRET_JWT_SEED=
 ```
 
-PORT: the port that the server is going to run (for example: 3000).
-DB_CONNECTION: the MongoDB url to make the connection to the database.
-SECRET_JWT_SEED: The secret signature of the jwt token.
+* PORT: the port that the server is going to run (for example: 3000).
+* DB_CONNECTION: the MongoDB url to make the connection to the database.
+* SECRET_JWT_SEED: The secret signature of the jwt token.
